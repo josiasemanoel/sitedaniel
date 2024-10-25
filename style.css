@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    font-size: x-large; 
+    color: white;
+}
+nav{
+    text-align: center;
+}
+header{
+    text-align: center;
+}
+button{
+    background-color: white;
+    color: black;
+    font-size: medium;
+}
